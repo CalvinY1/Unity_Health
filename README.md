@@ -2,7 +2,7 @@
 
 # Project Overview
 <p alight="center">
-  <img src=images/Unity_Health_Logo.png height=25% width=25%>
+  <img src=images/Unity_Health_Logo.png>
 </p>
 
 ## Company Background
